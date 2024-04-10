@@ -20,21 +20,6 @@
 
 Автор: Qunein
 
-//english
-# The spaceship
-
-This project is a graphical Python game using the Pygame library. In the game, you control a spaceship by shooting at meteorites and dodging them.
-
-## Installation
-
-1. Make sure that you have Python installed.
-2. Install the Pygame library using the command: pip install pygame
-3. ## Management
-
-- Move to the left: left arrow or 'A' key
-- Move to the right: right arrow or 'D' key
-
-## The purpose of the game
 
 Avoid colliding with meteorites and shoot them to earn points.
 
